@@ -17,7 +17,7 @@ Versão gratuita da OpenWeatherAPI utilizada nesse projeto.
 
 ## Tecnologias
 
-- Javascript
+- TypeScript
 - React Native
 
 ## Contato
